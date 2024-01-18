@@ -1,0 +1,64 @@
+body {
+    background-color: rgba(255, 228, 196, 0.685);
+}
+h1 {
+    color: #27aedb;
+    text-align: center;
+}
+.header-div {
+    margin-top: 50px;
+}
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+input {
+    border: none;
+
+}
+
+.homepage-div {
+    text-align: center;
+}
+
+.homepage-div .first-input-div {
+    margin: 30px;
+
+}
+.homepage-div .sec-input-div {
+    margin: 20px;
+}
+.homepage-div .cal-btn {
+    margin: 20px;
+}
+.homepage-div .clr-btn {
+    margin: 20px;
+}
+.homepage-div .ans-render {
+    size: 200px;
+}
+.homepage-div h1 {
+    font-size: 70px;
+}
+
+.homepage-div input {
+    height: 50px;
+    border-radius: 15px;
+    font-size: 1.2rem;
+    
+}
+
+.homepage-div button {
+  color: #1cc49d;
+  background-color: rgba(0, 0, 0, 0.712);
+  border-radius: 50px;
+  height: 50px;
+  padding: 0 20px  0;
+  font-size: large;
+  border: none;
+}
